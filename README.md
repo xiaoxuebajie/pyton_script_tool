@@ -3,7 +3,7 @@ A repository releated python script tools.
 
 
 
-### **1. 去除同级目录下重复图片**       [代码](https://github.com/xiaoxuebajie/pyton_script_tool/tree/master/remove duplicated)  [详细内容](https://github.com/xiaoxuebajie/pyton_script_tool/blob/master/remove duplicated/remove_duplicated.md)
+### **1. 去除同级目录下重复图片**       [代码](https://github.com/xiaoxuebajie/pyton_script_tool/tree/master/remove_duplicated)  [详细内容](https://github.com/xiaoxuebajie/pyton_script_tool/blob/master/remove_duplicated/remove_duplicated.md)
 
 - 可以删除同级目录下的重复图片
 - 或者将重复图片重命名进行特殊标记
